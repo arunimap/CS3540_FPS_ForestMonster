@@ -1,3 +1,5 @@
 # Forest-Monster-Game
 
-A simple FPS game impementation for CS3540 (Northeastern University).
+FPS game for CS3540.
+
+Background music from: https://freesound.org/people/orangefreesounds/sounds/242082/
