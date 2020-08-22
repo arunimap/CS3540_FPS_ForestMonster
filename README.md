@@ -1,6 +1,6 @@
 # Forest-Monster-Game
 
-Simple FPS game implementation for CS3540. Play the game at https://arunimap.github.io/CS540_MCA4/
+Simple FPS game implementation for CS3540. Play the game at https://arunimap.github.io/CS3540_FPS_ForestMonster/
 
 Controls: Use the arrow or WASD keys to move, and space bar to jump. The mouse can be used to control where you are looking, and clicking the left mouse button allows you to shoot.
 
